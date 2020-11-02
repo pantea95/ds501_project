@@ -1,0 +1,12 @@
+name: DS501-project
+title: DS501-project
+username:
+account: pantique
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3141995
+bundleId: 3808926
+url: https://pantique.shinyapps.io/DS501-project/
+when: 1604292237.64417
+asMultiple: FALSE
+asStatic: FALSE
